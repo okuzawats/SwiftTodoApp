@@ -16,6 +16,7 @@
 		466AC35120E8B5E900EF39D3 /* todoappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC35020E8B5E900EF39D3 /* todoappUITests.swift */; };
 		466AC35F20E8B64B00EF39D3 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC35E20E8B64B00EF39D3 /* Task.swift */; };
 		466AC36120E8B7A200EF39D3 /* TaskDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC36020E8B7A200EF39D3 /* TaskDataSource.swift */; };
+		466AC36320E8BCBD00EF39D3 /* TaskListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC36220E8BCBD00EF39D3 /* TaskListCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		466AC35220E8B5E900EF39D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		466AC35E20E8B64B00EF39D3 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		466AC36020E8B7A200EF39D3 /* TaskDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDataSource.swift; sourceTree = "<group>"; };
+		466AC36220E8BCBD00EF39D3 /* TaskListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				466AC33C20E8B5E900EF39D3 /* Info.plist */,
 				466AC35E20E8B64B00EF39D3 /* Task.swift */,
 				466AC36020E8B7A200EF39D3 /* TaskDataSource.swift */,
+				466AC36220E8BCBD00EF39D3 /* TaskListCell.swift */,
 			);
 			path = todoapp;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				466AC33320E8B5E700EF39D3 /* ViewController.swift in Sources */,
 				466AC36120E8B7A200EF39D3 /* TaskDataSource.swift in Sources */,
+				466AC36320E8BCBD00EF39D3 /* TaskListCell.swift in Sources */,
 				466AC35F20E8B64B00EF39D3 /* Task.swift in Sources */,
 				466AC33120E8B5E700EF39D3 /* AppDelegate.swift in Sources */,
 			);
