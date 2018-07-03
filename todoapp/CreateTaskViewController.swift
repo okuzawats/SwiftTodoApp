@@ -34,7 +34,7 @@ class CreateTaskView: UIView {
         deadlineTextField = UITextField()
         deadlineTextField.tag = 1
         deadlineTextField.placeholder = "期限を入れてください"
-        addSubview(deadlineTextView)
+        addSubview(deadlineTextField)
         
         datePicker = UIDatePicker()
         datePicker.datePickerMode = .dateAndTime
