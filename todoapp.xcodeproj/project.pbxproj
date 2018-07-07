@@ -18,6 +18,7 @@
 		466AC36120E8B7A200EF39D3 /* TaskDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC36020E8B7A200EF39D3 /* TaskDataSource.swift */; };
 		466AC36320E8BCBD00EF39D3 /* TaskListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC36220E8BCBD00EF39D3 /* TaskListCell.swift */; };
 		466AC36520EA5C9200EF39D3 /* CreateTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC36420EA5C9200EF39D3 /* CreateTaskView.swift */; };
+		466AC36720F09E0A00EF39D3 /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466AC36620F09E0A00EF39D3 /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		466AC36020E8B7A200EF39D3 /* TaskDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDataSource.swift; sourceTree = "<group>"; };
 		466AC36220E8BCBD00EF39D3 /* TaskListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListCell.swift; sourceTree = "<group>"; };
 		466AC36420EA5C9200EF39D3 /* CreateTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTaskView.swift; sourceTree = "<group>"; };
+		466AC36620F09E0A00EF39D3 /* CreateTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				466AC36020E8B7A200EF39D3 /* TaskDataSource.swift */,
 				466AC36220E8BCBD00EF39D3 /* TaskListCell.swift */,
 				466AC36420EA5C9200EF39D3 /* CreateTaskView.swift */,
+				466AC36620F09E0A00EF39D3 /* CreateTaskViewController.swift */,
 			);
 			path = todoapp;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				466AC35F20E8B64B00EF39D3 /* Task.swift in Sources */,
 				466AC33120E8B5E700EF39D3 /* AppDelegate.swift in Sources */,
 				466AC36520EA5C9200EF39D3 /* CreateTaskView.swift in Sources */,
+				466AC36720F09E0A00EF39D3 /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
